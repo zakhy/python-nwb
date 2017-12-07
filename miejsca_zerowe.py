@@ -1,7 +1,7 @@
 import math
-a = int(input("Podaj wartość a: "))
-b = int(input("Podaj wartość b: "))
-c = int(input("Podaj wartość c: "))
+a = int(input("Podaj współczynnik a: "))
+b = int(input("Podaj współczynnik b: "))
+c = int(input("Podaj współczynnik c: "))
 zerowka = int(2-2)
 delta = int((b*b)-(4*a*c))
 pdelta = math.sqrt(delta)
